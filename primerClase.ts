@@ -23,3 +23,8 @@ function filtrar(numero: number[]): number[] {
 //Con el comando tsc "nombre del archivo.ts"
 //te crea un archivo .js y ese archivo podemos utilizar para
 //ejecutar
+
+
+// el comando tsc --init nos crea un archivo .json
+// y ahi dentro estan todas las opciones del compilador
+//que se va a poder trabajar
